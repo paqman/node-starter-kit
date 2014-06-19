@@ -1,0 +1,12 @@
+var settings = {
+	"DEV" :
+		{
+			"port" : 8082,
+			"sources" : "src"
+		},
+	"PROD" :
+		{
+			"port" : 80,
+			"sources" : "dist"
+		}
+}
